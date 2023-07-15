@@ -1,2 +1,1 @@
-# ai
-Artificial intelligence resources and from scratch scripts.
+Artificial intelligence resources and scripts.
